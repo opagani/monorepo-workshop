@@ -1,7 +1,3 @@
-import {calculateLeaves} from '@forestpark/firelane-one'
-
-calculateLeaves()
-
 function calculateHikingTime(trailLength, averageSpeed) {
   return trailLength / averageSpeed
 }

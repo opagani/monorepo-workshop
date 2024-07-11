@@ -13,5 +13,5 @@ importers:
   packages/firelane-two:
     dependencies:
       '@forestpark/firelane-one':
-        specifier: 1.0.0
+        specifier: workspace:*
         version: link:../firelane-one

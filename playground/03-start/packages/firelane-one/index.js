@@ -1,4 +1,4 @@
-function calculateLeaves(branchCount) {
+export function calculateLeaves(branchCount) {
   return branchCount * 70
 }
 
